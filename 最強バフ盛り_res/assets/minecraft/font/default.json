@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "font/ender_eye.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "\uE001"
+      ]
+    }
+  ]
+}

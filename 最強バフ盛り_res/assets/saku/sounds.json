@@ -1,0 +1,12 @@
+{
+    "start" : {
+        "sounds": [
+            "saku:num/start"
+        ]
+    },
+    "glow" : {
+        "sounds": [
+            "saku:num/glow"
+        ]
+    }
+}
